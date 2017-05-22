@@ -71,3 +71,4 @@ Open the app (same as opening it in the browser):
     heroku open
 
 And your app should be up on Heroku.
+je rajoute une ligne pour me rappeler des commandes GIT
